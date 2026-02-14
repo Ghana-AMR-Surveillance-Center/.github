@@ -8,15 +8,16 @@ The Ghana AMR Surveillance Center is dedicated to strengthening antimicrobial re
 
 To provide innovative, accessible, and evidence-based solutions that enable African laboratories and healthcare systems to:
 - Standardize and harmonize AMR surveillance data
-- Submit high-quality data to global platforms (GLASS, WHONET)
+- Submit high-quality data to global platforms (eg: GLASS)
 - Make informed decisions based on local AMR patterns
 - Contribute to the global effort to combat antimicrobial resistance
+
 
 ## 🚀 Our Projects
 
 ### [data-standardizer](https://github.com/Ghana-AMR-Surveillance-Center/data-standardizer)
 Advanced data processing and standardization platform for AMR surveillance. Features include:
-- 📁 Single & multiple file processing with Excel sheet selection
+- 📁 Single & multiple file processing and merging with Excel sheet selection
 - 🧬 CLSI-compliant AMR analytics
 - 🎯 GLASS & WHONET preparation wizards
 - 📊 Smart column mapping & data harmonization
